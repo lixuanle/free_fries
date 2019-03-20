@@ -1,0 +1,16 @@
+{
+  "name": "fries_bot",
+  "version": "1.0.0",
+  "description": "track mcdonalds free fries promotion",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Me",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.4.2",
+    "dotenv": "^6.1.0",
+    "jsdom": "^12.2.0"
+  }
+}
